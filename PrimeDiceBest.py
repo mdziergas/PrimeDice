@@ -5,7 +5,7 @@ Created on Thu Sep  3 14:41:48 2020
 
 @author: marekdziergas
 """
-
+# using Github desktop to update part 2
 
 import random
 bankroll = 1.8
