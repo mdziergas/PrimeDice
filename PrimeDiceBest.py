@@ -23,7 +23,7 @@ longest_win_streak = 0
 ratio = 0
 
 
-while wager<bankroll and rolls < 100000:
+while wager<bankroll and rolls < 1000000:
     roll = random.uniform(0, 99.99)
     rolls +=1
     if roll < 50.49:
